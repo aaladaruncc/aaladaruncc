@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer and machine learning enthusiast currently pursuing a Bachelor's degree in Computer Science at the University of North Carolina Chapel Hill.
 
-# Visit my Website: https://aryanaladar.com/
+## Visit my Website: https://aryanaladar.com/
 
 ## 👀 I’m interested in ...
 - Natural Language Processing (NLP)
