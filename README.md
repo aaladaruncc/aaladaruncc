@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer and machine learning enthusiast currently pursuing a Bachelor's degree in Computer Science at the University of North Carolina Chapel Hill.
 
+#Visit my Website: https://aryanaladar.com/
+
 ## 👀 I’m interested in ...
 - Natural Language Processing (NLP)
 - Artificial Intelligence (AI)
@@ -22,8 +24,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and machine le
 ## 📫 How to reach me ...
 - Email: aryan.aladar@gmail.com
 - LinkedIn: [Aryan Aladar](https://www.linkedin.com/in/aryan-aladar-1a0758212/)
-
-## 😄 Pronouns: He/Him
 
 ## ⚡ Fun fact:
 When I'm not coding, you might find me playing Spikeball, practicing MMA, or diving into the latest tech trends!
