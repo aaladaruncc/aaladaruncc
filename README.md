@@ -1,66 +1,82 @@
-# 👋 Hi, I’m Aryan Aladar
+# 👋 Hey, I’m **Aryan Aladar**
 
-Welcome to my GitHub profile! I'm a passionate software developer and machine learning enthusiast currently pursuing a Bachelor's degree in Computer Science at the University of North Carolina Chapel Hill.
+I build AI systems, startups, and high-performance software. Currently a Computer Science student at UNC Chapel Hill, where I focus on agent orchestration, scalable infra, and machine intelligence.
 
-## Visit my Website: https://aryanaladar.com/
-
-## 👀 I’m interested in ...
-- Natural Language Processing (NLP)
-- Artificial Intelligence (AI)
-- Software Engineering
-- Full-Stack Development
-- Cloud Computing
-
-## 🌱 I’m currently learning ...
-- Advanced AI techniques and their applications
-- Scalable cloud solutions with AWS and Google Cloud
-- Enhancing my skills in Django, React, and SwiftUI
-
-## 💞️ I’m looking to collaborate on ...
-- Innovative AI/ML projects that solve real-world problems
-- Full-stack web and mobile applications
-- Open-source projects that make a difference
-
-## 📫 How to reach me ...
-- Email: aryan.aladar@gmail.com
-- LinkedIn: [Aryan Aladar](https://www.linkedin.com/in/aryan-aladar-1a0758212/)
-
-## ⚡ Fun fact:
-When I'm not coding, you might find me playing Spikeball, practicing MMA, or diving into the latest tech trends!
+### 🚀 Portfolio → **https://aryanaladar.com**
 
 ---
 
-<!---
-aaladaruncc/aaladaruncc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 Interests
+- Agentic AI systems · LLMs · multimodal models  
+- Quant research and probabilistic modeling  
+- Distributed systems · Rust · high-performance compute  
+- Full-stack engineering (Next.js, Django, Supabase, AWS)
 
-## 📝 Resume Highlights
+## 🌱 Currently building & learning
+- AI-powered scheduling + multi-agent orchestration (Ocal AI)  
+- Subcontractor vetting automation platform (Skilled Strategies)  
+- Rust → WebAssembly pipelines for edge-deployed AI agents  
+- Scalable cloud infra across AWS, Supabase, and serverless environments
 
-### Education
-**University of North Carolina Chapel Hill, NC**
-- Bachelor of Science in Computer Science | GPA: 4.0 | Expected Graduation: May 2026
+## 🤝 Open to collaborating on
+- AI agents, orchestration frameworks, and SLM workflows  
+- High-impact SaaS tools in construction, education, or productivity  
+- ML research in watermarking, attribution, or model provenance
 
-### Experience
-**Fidelity Investments | Software Engineering Intern, AI/ML**
-- Implemented NLP technologies to enhance compliance standards.
-- Trained and fine-tuned SpaCy models for Named Entity Recognition (NER) and text classification.
+## 📫 Connect
+- **Email:** aryan.aladar@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/aryan-aladar-1a0758212/
 
-**UNC Charlotte | Lead Research Assistant**
-- Published research paper in Frontiers in Education Conference (FIE) 2024.
-- Built a quiz application to enhance student retention, managing a team of four using Agile methodologies.
+## ⚡ Fun fact
+Outside of code, I’m usually traveling, training MMA, playing Spikeball, or building something new.
 
-### Projects
-**BlueprINTERNSHIP**
-- Developed a web application using EJS and Node.js for customized internship roadmaps.
-- Integrated OpenAI API and MongoDB for user data and blueprint storage.
+---
 
-**Divinyl - Music Sharing**
-- Created an iOS app for music sharing using Swift and Objective-C.
-- Integrated APIs from Spotify and Apple Music for cross-compatibility.
+# 📝 Highlights
 
-### Technical Skills
-- **Languages:** Java, Python, C/C++, SQL (Postgres), JavaScript, HTML/CSS, R, Swift
-- **Frameworks:** React, Node.js, Django, JUnit, Material-UI, SwiftUI
-- **Developer Tools:** Git, Docker, Google Cloud, AWS, GitHub Actions, XCode, PyCharm, IntelliJ
-- **Libraries:** pandas, NumPy, Matplotlib, spaCy, tensorFlow, pyTorch
+## 🎓 Education
+**University of North Carolina at Chapel Hill**  
+B.S. Computer Science • GPA 4.0 • Expected May 2026  
+
+---
+
+## 💼 Experience
+
+### **Fidelity Investments – Software Engineering Intern (AI/ML)**
+- Built NLP systems for compliance automation within Asset Management.  
+- Trained / fine-tuned SpaCy textcat and NER models.  
+- Delivered POCs on model monitoring, annotation tooling, and inference pipelines.
+
+### **UNC Charlotte – Lead Research Assistant**
+- Published in **Frontiers in Education (FIE) 2024**.  
+- Built a real-time quiz learning platform using WebSockets, boosting responsiveness by 34%.  
+- Led a 4-person engineering team using Agile workflows and CI/CD pipelines.
+
+---
+
+## 🛠️ Projects
+
+### **Ocal AI – Autonomous Scheduling + Agentic Productivity**
+- Multi-agent scheduling engine with Next.js, Supabase, AWS, and vector retrieval.  
+- Calendar intelligence, lecture-to-quiz generation, and automated task orchestration.
+
+### **Skilled Strategies – AI-Powered Subcontractor Vetting**
+- Automated verification for licenses, insurance, and project history.  
+- Built fast, reliable data pipelines for construction procurement.
+
+### **BlueprINTERNSHIP**
+- Full-stack internship-roadmap generator using Node.js, EJS, MongoDB, and OpenAI.
+
+### **Divinyl**
+- iOS music-sharing platform built with Swift, Objective-C, and Spotify/Apple Music APIs.
+
+---
+
+## 🧰 Technical Stack
+
+**Languages:** Python · Rust · Java · C/C++ · SQL · TypeScript · Swift  
+**Frameworks:** Next.js · React · Django · Node.js · SwiftUI  
+**AI/ML:** PyTorch · TensorFlow · spaCy · sklearn · Pinecone  
+**Tools & Infra:** AWS · Supabase · Docker · GitHub Actions · Terraform · Kafka · Postgres  
+
+---
